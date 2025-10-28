@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/JubethSb/JubethSb/blob/main/banner.png" alt="Cloud & DevOps Engineer | AWS | Terraform | Docker | Python" width="100%">
+  <img src="https://github.com/JubethSB/JubethSb/blob/main/banner.png.png" alt="Cloud & DevOps Engineer | AWS | Terraform | Docker | Python" width="100%">
 </p>
+
+<br>
+
 # 👋 Hi, I'm Jubeth S B
 
 🌩️ **Cloud & DevOps Engineer | AWS | Docker | Terraform | Python | Linux**
@@ -34,7 +37,7 @@ I’m passionate about building scalable and automated cloud infrastructure, and
 ---
 
 ### 📚 Current Learning Journey
-🚀 AWS re/Start Program – TNSKILL / Cultus Education  
+🚀 **AWS re/Start Program – TNSKILL / Cultus Education**  
 Hands-on with:
 - EC2, S3, IAM, RDS, and VPC Networking  
 - Docker & Kubernetes container deployments  
@@ -57,7 +60,7 @@ Hands-on with:
 
 ---
 
-> 💬 “Automation is not just efficiency — it’s reliability and scalability in motion.”
+> 💬 *“Automation is not just efficiency — it’s reliability and scalability in motion.”*
 
 ---
 
