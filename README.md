@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/JubethSb/JubethSb/blob/main/banner.png" alt="Cloud & DevOps Engineer | AWS | Terraform | Docker | Python" width="100%">
+</p>
 # 👋 Hi, I'm Jubeth S B
 
 🌩️ **Cloud & DevOps Engineer | AWS | Docker | Terraform | Python | Linux**
