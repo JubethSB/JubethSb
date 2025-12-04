@@ -1,69 +1,44 @@
-<p align="center">
-  <img src="https://github.com/JubethSB/JubethSb/blob/main/banner.png.png" alt="Cloud & DevOps Engineer | AWS | Terraform | Docker | Python" width="100%">
-</p>
+# Hi there, I'm Jubeth S B 👋
 
-<br>
+### ☁️ Cloud & Infrastructure Engineer
+I am a Cloud Engineer successfully transitioning from technical operations to **Cloud & DevOps**. [cite_start]My focus is on building scalable infrastructure, automating workflows with Python, and deep-dive Linux troubleshooting[cite: 6, 7].
 
-# 👋 Hi, I'm Jubeth S B
-
-🌩️ **Cloud & DevOps Engineer | AWS | Docker | Terraform | Python | Linux**
-
-Welcome to my GitHub profile!  
-I’m passionate about building scalable and automated cloud infrastructure, and currently expanding my DevOps expertise through the **AWS re/Start Program (TNSKILL – Cultus Education).**
+[cite_start]Currently enhancing my skills through the **AWS re/Start Program** and hands-on labs[cite: 26, 72].
 
 ---
 
-### 🧠 About Me
-- 🔭 Currently working on **AWS Cloud, Terraform, and CI/CD Pipelines**
-- 🌱 Learning **Kubernetes & GitHub Actions**
-- ⚙️ Experienced in **Python (boto3), Linux Administration, and Docker**
-- 📊 Interested in **Cloud Automation & Monitoring Dashboards**
-- 💬 Ask me about **AWS, DevOps, and Infrastructure Automation**
-- 📍 Based in **Chennai, India** | Available for **Remote or Relocation**
-- 📫 Reach me at **sjubeth3@gmail.com**
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/syed-j-299386389/)
+### 🛠️ Technical Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Cloud Platforms** | [cite_start]**AWS** (EC2, VPC, S3, RDS, IAM, CloudWatch) [cite: 12][cite_start]<br>**GCP** (Compute Engine, IAM, Firewall Rules, Monitoring)  |
+| **Infrastructure as Code** | [cite_start]Terraform (Modules & State Management) [cite: 15] |
+| **CI/CD & DevOps** | [cite_start]Docker, Jenkins, GitHub Actions, Git  |
+| **Automation** | [cite_start]Python (Boto3), Bash Scripting, Cron Jobs [cite: 18, 30] |
+| **OS & Operations** | Linux (RHEL/Ubuntu), System Hardening, User Management |
+| **Troubleshooting** | [cite_start]Boot failures, SSH issues, Disk/CPU spikes, IAM permissions [cite: 21, 22] |
 
 ---
 
-### 🧰 Tech Stack
-**Cloud:** AWS (EC2, S3, IAM, VPC, RDS, CloudWatch)  
-**Containers:** Docker, Kubernetes (learning)  
-**IaC:** Terraform  
-**Automation:** Python (boto3), Shell scripting  
-**CI/CD:** GitHub Actions  
-**OS:** Linux, Windows  
-**Tools:** Git, ENOVIA PLM, AutoCAD, SolidWorks  
+### 🚀 Featured Projects
+
+#### 🔹 [AWS Cost Optimizer](link-to-your-repo)
+* **Tech:** Python (Boto3), AWS Lambda, CloudWatch
+* [cite_start]**Impact:** Automated EC2 lifecycle functions (Start/Stop) to reduce runtime costs for dev environments[cite: 30, 42].
+
+#### 🔹 [AWS Infrastructure Monitoring](link-to-your-repo)
+* **Tech:** Terraform, CloudWatch, SNS
+* [cite_start]**Impact:** Built dashboards and alarms for instance monitoring, tracking CPU utilization and disk usage[cite: 29, 43].
+
+#### 🔹 [Linux Server Hardening](link-to-your-repo)
+* **Tech:** Bash, Linux Security
+* [cite_start]**Impact:** Scripted solutions for diagnosing common issues like SSH failures and disk full errors[cite: 33].
 
 ---
 
-### 📚 Current Learning Journey
-🚀 **AWS re/Start Program – TNSKILL / Cultus Education**  
-Hands-on with:
-- EC2, S3, IAM, RDS, and VPC Networking  
-- Docker & Kubernetes container deployments  
-- Terraform Infrastructure as Code  
-- Python automation for AWS  
-- CI/CD pipelines and GitHub workflows  
+### 📈 GitHub Stats
+![Jubeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=JubethSB&show_icons=true&theme=radical)
 
----
-
-### 📈 My Goals
-🎯 To contribute as a **Cloud / DevOps Engineer**, designing automated, cloud-native infrastructure with a focus on reliability, cost-efficiency, and scalability.
-
----
-
-### 🏗️ Upcoming Projects
-- AWS EC2 Automation with Python (boto3)  
-- Terraform-based AWS Infrastructure Setup  
-- Dockerized Flask Application with CI/CD  
-- Kubernetes Deployment on EKS  
-
----
-
-> 💬 *“Automation is not just efficiency — it’s reliability and scalability in motion.”*
-
----
-
-**📫 Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/syed-j-299386389/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/JubethSB)
+### 📫 Connect with Me
+* [cite_start]**LinkedIn:** [linkedin.com/in/jubeth-cloud-devops](https://www.linkedin.com/in/jubeth-cloud-devops/) [cite: 2]
+* [cite_start]**Email:** sjubeth3@gmail.com [cite: 2]
