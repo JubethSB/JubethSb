@@ -22,17 +22,17 @@ Currently enhancing my skills through the **AWS re/Start Program** and hands-on 
 
 ### 🚀 Featured Projects
 
+#### 🔹 [AWS Enterprise EKS Platform](https://github.com/JubethSB/aws-eks-enterprise-platform)
+* **Tech:** Terraform, AWS EKS, VPC, EC2
+* **Impact:** Engineered a production-ready Kubernetes platform on AWS using Infrastructure as Code, featuring custom networking and automated node provisioning.
+
 #### 🔹 [Automated GitOps Platform (K8s & Argo CD)](https://github.com/JubethSB/k8s-platform)
 * **Tech:** Kubernetes, Argo CD, Terraform, Docker
-* **Impact:** Deployed a self-healing Guestbook application with automated sync policies and modernized Ingress controllers.
+* **Impact:** Deployed a self-healing Guestbook application with automated sync policies, demonstrating modern "Zero-Touch" delivery.
 
 #### 🔹 [End-to-End DevSecOps Pipeline](https://github.com/JubethSB/local-devops-project)
 * **Tech:** Jenkins, Prometheus, Grafana, Terraform
-* **Impact:** Built a production-grade CI/CD pipeline featuring automated builds, infrastructure provisioning, and real-time observability.
-
-#### 🔹 [AWS Cost Optimizer](https://github.com/JubethSB/aws-cost-optimizer)
-* **Tech:** Python (Boto3), AWS Lambda, CloudWatch
-* **Impact:** Automated EC2 lifecycle functions (Start/Stop) to reduce runtime cloud costs by ~40%.
+* **Impact:** Built a complete CI/CD pipeline simulating a corporate environment, featuring automated builds, security scanning, and real-time observability.
 
 ---
 
