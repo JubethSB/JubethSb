@@ -3,7 +3,6 @@
 ### ☁️ Cloud & Infrastructure Engineer
 I am a Cloud Engineer successfully transitioning from technical operations to **Cloud & DevOps**. My focus is on building scalable infrastructure, orchestrating containers with Kubernetes, and automating workflows with Python.
 
-Currently enhancing my skills through the **AWS re/Start Program** and hands-on GitOps labs.
 
 ---
 
